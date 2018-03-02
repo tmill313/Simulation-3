@@ -1,0 +1,1 @@
+update users set hobby = $1 where id = $2;
